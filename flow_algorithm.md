@@ -4,7 +4,9 @@
 
 ## 2.Lupas method
 
-## 3.speckle tracking
+## 3.vector Doppler
 
-## 4.speckle decorrelation
+## 4.speckle tracking
+
+## 5.speckle decorrelation
 

@@ -30,9 +30,9 @@ REF
 - Jensen 2015, Notes for the international summer school on advanced ultrasound imaging, ch.4.9
 - Szabo 2014, Diagnostic ultrasound imaging inside out, 2e, ch.11.10.2
 
-## 4.speckle tracking
+## 4.speckle tracking (ST)
 
-## 5.speckle decorrelation
+## 5.speckle decorrelation (SDC)
 REF
 - Li 1997, Decorrelation of intravascular echo signals; Potentials for blood velocity estimation
 - Rubin 2001, Volumn flow measurement using Doppler and gray scale decorrelation
